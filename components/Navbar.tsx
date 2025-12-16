@@ -31,9 +31,9 @@ function Navbar() {
               <a href="#equipe" className="text-sm text-foreground hover:text-primary transition-colors">
                 Équipe
               </a>
-              <Button size="sm" className="bg-primary text-primary-foreground hover:bg-primary/90">
+              {/* <Button size="sm" className="bg-primary text-primary-foreground hover:bg-primary/90">
                 Contact
-              </Button>
+              </Button> */}
             </nav>
           </div>
         </div>

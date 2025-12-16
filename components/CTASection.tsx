@@ -13,7 +13,7 @@ function CTASection() {
           <p className="text-xl text-primary-foreground/90 mb-8 text-pretty">
             {"Rejoignez-nous dans cette aventure pour démocratiser la sécurité connectée accessible à tous"}
           </p>
-          <div className="flex flex-wrap gap-4 justify-center">
+          {/* <div className="flex flex-wrap gap-4 justify-center">
             <Button size="lg" variant="secondary" className="bg-background text-foreground hover:bg-background/90">
               Nous contacter
             </Button>
@@ -24,7 +24,7 @@ function CTASection() {
             >
               Télécharger le Business Plan
             </Button>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

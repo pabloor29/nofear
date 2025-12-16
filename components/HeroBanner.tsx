@@ -20,14 +20,14 @@ function HeroBanner() {
                 "Track Serrure apporte la tranquillité d'esprit grâce à une solution simple, intelligente et accessible pour vérifier l'état de votre porte à distance."
               }
             </p>
-            <div className="flex flex-wrap gap-4 justify-center">
+            {/* <div className="flex flex-wrap gap-4 justify-center">
               <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
                 Découvrir le projet
               </Button>
               <Button size="lg" variant="outline">
                 En savoir plus
               </Button>
-            </div>
+            </div> */}
           </div>
 
           {/* Logo Grid */}

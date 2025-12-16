@@ -34,7 +34,7 @@ function TeamSection() {
             ))}
           </div>
 
-          <Card className="p-8 bg-muted/50">
+          {/* <Card className="p-8 bg-muted/50">
             <div className="flex items-start gap-4">
               <img src="/images/logo-003.png" alt="NoFear Logo" className="h-16 w-16 object-contain flex-shrink-0" />
               <div>
@@ -46,7 +46,7 @@ function TeamSection() {
                 </p>
               </div>
             </div>
-          </Card>
+          </Card> */}
         </div>
       </section>
     </>
